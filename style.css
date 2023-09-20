@@ -2,8 +2,19 @@ p {
     text-align: center;
 }
 
+#missao {
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center
+}
 body {
     background-color: #cccc;
+}
+
+#banner { 
+    width: 100%;
 }
 
 em strong {
