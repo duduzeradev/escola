@@ -10,15 +10,19 @@ h1 {
     text-align: center
 }
 body {
-    background-color: #cccc;
+    
 }
 
 #banner { 
     width: 100%;
 }
 
+.principal {
+    background-color: #cccccc;
+}
+
 em strong {
-    color: red;
+    color: #ff0000;
 }
 
 
