@@ -6,11 +6,12 @@ p {
     font-size: 20px;
 }
 
-h1 {
-    text-align: center
+.titulo-principal {
+    padding-left: 20px;
 }
-body {
-    
+
+titulo-centralizado {
+    text-align: center
 }
 
 #banner { 
@@ -33,10 +34,6 @@ font-style: italic;
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
